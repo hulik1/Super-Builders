@@ -958,11 +958,11 @@
     "soc": "mt6833",
     "codename": null,
     "android_version": "android15",
-    "kernel_version": "5.10",
+    "kernel_version": "6.6",
     "build_method": "perf",
     "manifest_repo": "Numbersf/Kernel_Manifest_Appendix",
     "manifest_branch": "oneplus/mt6833",
-    "hmbird": false,
+    "hmbird": true,
     "extra_artifacts": []
   },
   "oneplus_pad_go_2_b": {
@@ -1465,11 +1465,11 @@
     "soc": "mt6899",
     "codename": null,
     "android_version": "android15",
-    "kernel_version": "6.1",
+    "kernel_version": "6.6",
     "build_method": "perf",
     "manifest_repo": "Numbersf/Kernel_Manifest_Appendix",
     "manifest_branch": "oppo/mt6899",
-    "hmbird": false,
+    "hmbird": true,
     "extra_artifacts": []
   },
   "oppo_reno14_pro_b": {
@@ -1478,11 +1478,11 @@
     "soc": "mt6899",
     "codename": null,
     "android_version": "android16",
-    "kernel_version": "6.1",
+    "kernel_version": "6.6",
     "build_method": "perf",
     "manifest_repo": "Numbersf/Kernel_Manifest_Appendix",
     "manifest_branch": "oppo/mt6899",
-    "hmbird": false,
+    "hmbird": true,
     "extra_artifacts": []
   },
   "oppo_reno14_pro_v": {
@@ -1491,11 +1491,11 @@
     "soc": "mt6899",
     "codename": null,
     "android_version": "android15",
-    "kernel_version": "6.1",
+    "kernel_version": "6.6",
     "build_method": "perf",
     "manifest_repo": "Numbersf/Kernel_Manifest_Appendix",
     "manifest_branch": "oppo/mt6899",
-    "hmbird": false,
+    "hmbird": true,
     "extra_artifacts": []
   },
   "oppo_reno_15_b": {
@@ -1504,11 +1504,11 @@
     "soc": "mt6899",
     "codename": null,
     "android_version": "android16",
-    "kernel_version": "6.1",
+    "kernel_version": "6.6",
     "build_method": "perf",
     "manifest_repo": "Numbersf/Kernel_Manifest_Appendix",
     "manifest_branch": "oppo/mt6899",
-    "hmbird": false,
+    "hmbird": true,
     "extra_artifacts": []
   },
   "oppo_find_n2_flip_b": {
@@ -1751,11 +1751,11 @@
     "soc": "mt6899",
     "codename": null,
     "android_version": "android15",
-    "kernel_version": "6.1",
+    "kernel_version": "6.6",
     "build_method": "perf",
     "manifest_repo": "Numbersf/Kernel_Manifest_Appendix",
     "manifest_branch": "realme/mt6899",
-    "hmbird": false,
+    "hmbird": true,
     "extra_artifacts": []
   },
   "realme_neo7_b": {
